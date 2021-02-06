@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["host_closure"] = [{"text":"impl&lt;E:&nbsp;<a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a>&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.From.html\" title=\"trait core::convert::From\">From</a>&lt;E&gt; for <a class=\"struct\" href=\"host_closure/struct.JError.html\" title=\"struct host_closure::JError\">JError</a>","synthetic":false,"types":["host_closure::args_error::JError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
